@@ -10,6 +10,13 @@ I am from Andhra Pradesh,India. i have completed my undergraduate in computer sc
 
 ## Plans
 
-I am planning to learn more technical skills which would empower me to reach my goal.
+I am planning to learn more technical skills which would empower me to be a software developer.
 
 ## Links
+
+[GitHub](https://github.com/sowmya-yalamarthi)
+
+## Me 
+
+![](mypic.jpeg)
+
